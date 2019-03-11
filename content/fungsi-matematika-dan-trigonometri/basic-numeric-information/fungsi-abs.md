@@ -1,10 +1,10 @@
 # Fungsi ABS
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini mengembalikan nilai absolut dari suatu angka. Nilai mutlak suatu angka adalah angka tanpa tanda.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -16,7 +16,7 @@ Sintaks fungsi ABS memiliki argumen berikut:
 
 * **Number**    Diperlukan. Bilangan riil yang Anda inginkan nilai mutlaknya.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |
@@ -26,6 +26,4 @@ Sintaks fungsi ABS memiliki argumen berikut:
 {% hint style="info" %}
 Argumen \(angka\) tidak harus berupa angka, melainkan dapat berupa salah satu cell.
 {% endhint %}
-
-
 

@@ -1,10 +1,10 @@
 # Fungsi SUMIF
 
-### Deskripsi
+## Deskripsi
 
 Anda dapat menggunakan fungsi **SUMIF** untuk menjumlahkan nilai dalam satu rentang yang memenuhi kriteria yang Anda tentukan. Sebagai contoh, di dalam kolom yang berisi angka, Anda hanya ingin menjumlahkan nilai-nilai yang lebih besar dari 5. Anda bisa menggunakan rumus berikut:**=SUMIF\(B2:B25,”&gt;5”\)**
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -18,13 +18,13 @@ Sintaks fungsi **SUMIF** memiliki argumen berikut:
 * **kriteria**   Diperlukan. Kriteria dalam bentuk angka, ekspresi, referensi sel, teks, atau fungsi yang menentukan sel mana yang akan ditambahkan. Misalnya, kriteria dapat diekspresikan sebagai 32, "&gt;32", B5, "32", "apples", atau TODAY\(\).
 
 {% hint style="warning" %}
- **Penting:** Kriteria teks atau kriteria apa pun yang mencakup simbol logika atau matematika harus disertakan dalam tanda kutip ganda \(**"**\). Jika kriteria adalah numerik, tanda kutip ganda tidak diperlukan.
+**Penting:** Kriteria teks atau kriteria apa pun yang mencakup simbol logika atau matematika harus disertakan dalam tanda kutip ganda \(**"**\). Jika kriteria adalah numerik, tanda kutip ganda tidak diperlukan.
 {% endhint %}
 
 * **sum\_range**   Opsional. Sel aktual untuk ditambahkan, jika Anda ingin menambahkan sel yang lain dari yang sudah ditentukan dalam argumen**rentang**. Jika argumen **sum\_range** dihilangkan, Excel menambahkan sel yang ditentukan dalam argumen **range** \(sel yang sama di mana kriteria diterapkan\).
 * Anda bisa menggunakan karakter wildcard—tanda tanya \(**?**\) dan tanda bintang \(**\***\)—sebagai argumen **kriteria**. Tanda tanya cocok dengan semua karakter tunggal; tanda bintang cocok dengan semua urutan karakter. Jika Anda ingin menemukan tanda tanya atau tanda bintang, ketikkan tilde \(**~**\) sebelum karakter.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Nilai Properti** | **Komisi** | **Data** |
 | :--- | :--- | :--- |

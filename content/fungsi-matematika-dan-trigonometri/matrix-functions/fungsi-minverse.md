@@ -1,10 +1,10 @@
 # Fungsi MINVERSE
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini berfungsi mengembalikan nilai inverse dari suatu mariks yang disimpan dalam array.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -16,7 +16,7 @@ Sintaks fungsi MINVERSE memiliki argumen ini:
 
 * **Array**    Diperlukan. Sebuah array numerik dengan jumlah baris dan kolom yang sama.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 {% hint style="info" %}
 Untuk menghasilkan array yang berisi inverse maka langkah yang harus dilakukan ialah blok rentang tertentu yang seukuran dengan array matriks, lalu masukan rumus dan tekan CTRL+SHIFT+ENTER

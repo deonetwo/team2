@@ -1,10 +1,10 @@
 # Fungsi FACT
 
-### Deskripsi
+## Deskripsi
 
 Fungsi FACT berfungsi untuk mengembalikan nilai faktorial dari suatu angka. Nilai dari n faktorial ialah n\*\(n-1\)\(n-2\).....1.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -16,7 +16,7 @@ Sintaks fungsi FACT memiliki argumen berikut:
 
 * **Number**    Diperlukan. Angka nonnegatif yang Anda inginkan faktorialnya. Jika angka bukan bilangan bulat, maka dipotong.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |
@@ -25,6 +25,4 @@ Sintaks fungsi FACT memiliki argumen berikut:
 | =FACT\(0\) | Faktorial 0 | 1 |
 | =FACT\(-1\) | Faktorial angka negatif mengembalikan nilai kesalahan | \#NUM! |
 | =FACT\(1\) | Faktorial 1 | 1 |
-
-
 

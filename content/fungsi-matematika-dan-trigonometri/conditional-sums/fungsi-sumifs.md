@@ -1,10 +1,10 @@
 # Fungsi SUMIFS
 
-### Deskripsi
+## Deskripsi
 
 Fungsi SUMIFS, salah satu dari [fungsi matematika dan trigonometri](https://support.office.com/id-id/article/fungsi-matematika-dan-trigonometri-referensi-ee158fd6-33be-42c9-9ae5-d635c3ae8c16), menambahkan semua argumennya yang memenuhi beberapa kriteria. Sebagai contoh, gunakan SUMIFS untuk menjumlahkan jumlah pengecer di negara yang \(1\) berada dalam satu kode pos dan \(2\) yang labanya melebihi nilai dolar tertentu. Seperti pada video di link berikut [https://www.microsoft.com/id-id/videoplayer/embed/RWflBa?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=id-id](https://www.microsoft.com/id-id/videoplayer/embed/RWflBa?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=id-id)
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -14,43 +14,34 @@ SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)
 
 Fungsi SUMIFS memeiliki argumen sebagai berikut.
 
+| **Nama argumen** | **Deskripsi** |
+| :--- | :--- |
+
+
+| **Sum\_range** \(diperlukan\) | Rentang sel untuk dijumlahkan. |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Nama argumen</b>
-      </th>
-      <th style="text-align:left"><b>Deskripsi</b>
+      <th style="text-align:left"><b>Criteria_range1</b> (diperlukan)</th>
+      <th style="text-align:left">
+        <p>Rentang yang diuji menggunakan <b>Criteria1</b>.</p>
+        <p><b>Criteria_range1</b> dan <b>Criteria1</b> mengatur pasangan pencarian saat
+          suatu rentang ditelusuri untuk kriteria tertentu. Setelah item dalam rentang
+          ditemukan, nilai item yang berhubungan dalam <b>Sum_range</b> akan ditambahkan.</p>
       </th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Sum_range</b> (diperlukan)</td>
-      <td style="text-align:left">Rentang sel untuk dijumlahkan.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Criteria_range1</b> (diperlukan)</td>
-      <td style="text-align:left">
-        <p>Rentang yang diuji menggunakan <b>Criteria1</b>.</p>
-        <p><b>Criteria_range1 </b>dan <b>Criteria1</b> mengatur pasangan pencarian
-          saat suatu rentang ditelusuri untuk kriteria tertentu. Setelah item dalam
-          rentang ditemukan, nilai item yang berhubungan dalam <b>Sum_range</b> akan
-          ditambahkan.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Criteria1</b> (diperlukan)</td>
-      <td style="text-align:left">Kriteria yang menentukan sel mana dalam <b>Criteria_range1</b> yang akan
-        ditambahkan. Misalnya, kriteria bisa dimasukkan sebagai <b>32</b>, <b>&quot;&gt;32&quot;</b>, <b>B4</b>, <b>&quot;apel&quot;</b>,
-        atau <b>&quot;32&quot;</b>.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Criteria_range2, criteria2, &#x2026;</b> (opsional)</td>
-      <td style="text-align:left">Rentang tambahan dan kriteria yang terkait. Anda bisa memasukkan hingga
-        127 pasang rentang/kriteria.</td>
-    </tr>
-  </tbody>
-</table>### Contoh Implementasi
+  <tbody></tbody>
+</table>| **Criteria1** \(diperlukan\) | Kriteria yang menentukan sel mana dalam **Criteria\_range1** yang akan ditambahkan. Misalnya, kriteria bisa dimasukkan sebagai **32**, **"&gt;32"**, **B4**, **"apel"**, atau **"32"**. |
+| :--- | :--- |
+
+
+| **Criteria\_range2, criteria2, …** \(opsional\) | Rentang tambahan dan kriteria yang terkait. Anda bisa memasukkan hingga 127 pasang rentang/kriteria. |
+| :--- | :--- |
+
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |

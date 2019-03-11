@@ -2,7 +2,7 @@
 
 Fungsi DAVERAGE digunakan untuk menghitung nilai rata-rata pada sebuah data sesuai dengan kriteria tertentu.
 
-#### Contoh rumus:
+## Contoh rumus:
 
 ```text
 =DAVERAGE(B3:G11;"Gaji";I3:I4)
@@ -10,11 +10,11 @@ Fungsi DAVERAGE digunakan untuk menghitung nilai rata-rata pada sebuah data sesu
 
 _**B3:G11**_ Merupakan letak dimana data disusun.
 
-**"**_**Gaji"**_ ****Merupakan kriteria yang diambil beradasarkan kolom.
+**"**_**Gaji"**_ _\*\*_Merupakan kriteria yang diambil beradasarkan kolom.
 
 _**I3:I4**_ Merupakan letak kriteria.
 
-#### Contoh data yang digunakan:
+## Contoh data yang digunakan:
 
 ![Tabel dengan kolom RATA-RATA GAJI berisikan rumus dari DAVERAGE.](../../.gitbook/assets/image%20%281%29.png)
 

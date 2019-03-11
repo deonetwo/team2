@@ -1,10 +1,10 @@
 # Fungsi ROMAN
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini digunakan untuk mengonversi angka Arab ke Romawi, sebagai teks.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -27,7 +27,7 @@ Sintaks fungsi ROMAN memiliki argumen berikut:
 | TRUE | Klasik. |
 | FALSE | Sederhana. |
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi \(Hasil\)** | **Hasil** |
 | :--- | :--- | :--- |
@@ -36,6 +36,4 @@ Sintaks fungsi ROMAN memiliki argumen berikut:
 | =ROMAN\(499,2\) | Versi lebih singkat untuk 499 \(XDIX\) | XDIX |
 | =ROMAN\(499,3\) | Versi lebih singkat untuk 499 \(VDIV\) | VDIV |
 | =ROMAN\(499,4\) | Versi sederhana untuk 499 \(ID\) | ID |
-
-
 

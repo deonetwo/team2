@@ -1,10 +1,10 @@
 # FUNGSI MAXA
 
-### Pengertian Fungsi **MAXA**
+## Pengertian Fungsi **MAXA**
 
 **Fungsi MAXA** adalah fungsi excel yang digunakan untuk menentukan nilai tertinggi \(angka maksimum\) dari sekumpulan nilai atau untuk mendapatkan nilai terbesar dari sejumlah data. Fungsi MAXA menghitung teks dan nilai logis FALSE sebagai nilai 0 dan menghitung nilai logis BENAR sebagai nilai 1.
 
-### Sintaks Fungsi **MAXA** pada Excel
+## Sintaks Fungsi **MAXA** pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi MAXA" %}

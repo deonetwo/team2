@@ -4,7 +4,7 @@ Sebelumnya perlu diingatkan bahwa Microsoft Excel bukanlah sebuah software untuk
 
 Database dapat diartikan sebagai sekelompok data pada range data atau rentang sel tertentu yang saling terkait serta telah disusun sedemikian rupa dimana baris pertama berisi Label untuk masing-masing kolom yang disebut sebagai Field \(Bidang Data\) dan baris-baris berikutnya biasa disebut sebagai Record \(Rekaman Data\).
 
-#### Adapun 12 fungsi yang dikategorikan sebagai Fungsi Database Excel antara lain:
+## Adapun 12 fungsi yang dikategorikan sebagai Fungsi Database Excel antara lain:
 
 1. [DSUM](fungsi-dsum.md)
 2. [DAVERAGE](fungsi-daverage.md)
@@ -19,7 +19,7 @@ Database dapat diartikan sebagai sekelompok data pada range data atau rentang se
 11. [DVAR](fungsi-dvar.md)
 12. [DVARP](fungsi-dvarp.md)
 
-#### CARA MENGGUNAKAN FUNGSI DARTABASE EXCEL
+## CARA MENGGUNAKAN FUNGSI DARTABASE EXCEL
 
 Secara umum sintak penggunaan fungsi database excel adalah sebagai berikut:
 

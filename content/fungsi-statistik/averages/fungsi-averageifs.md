@@ -1,14 +1,12 @@
 # FUNGSI AVERAGEIFS
 
-### Pengertian Fungsi AVERAGEIFS
+## Pengertian Fungsi AVERAGEIFS
 
 **Fungsi AVERAGEIFS** adalah rumus excel yang digunakan untuk menghitung rata-rata nilai sekumpulan data yang memenuhi beberapa kriteria. Dengan rumus AVERAGEIFS kita bisa menghitung atau mencari rata-rata dengan banyak syarat atau kondisi tertentu.
 
 Dengan **fungsi AVERAGEIFS** kita bisa menetapkan sampai 127 kriteria atau kondisi untuk menghitung rata-rata sekumpulan data.
 
-
-
-### Sintaks Fungsi AVERAGEIFS pada Excel
+## Sintaks Fungsi AVERAGEIFS pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi AVERAGEIFS" %}
@@ -25,7 +23,7 @@ Sintaks atau cara penulisan fungsi excel AVERAGEIFS di atas memiliki argumen ber
 * **Criteria1** Merupakan syarat pertama yang akan digunakan untuk mengevaluasi argument CriteriaRange1.
 * **CriteriaRange2; Criteria2;...** Argumen yang berisi pasangan antara sekumpulan data dan syarat selanjutnya. Argumen ini bersifat opsional \(Bisa diisi atau dikosongkan\). Maksimal samapai 127 Kriteria
 
-### Contoh Implementasi Fungsi AVERAGEIFS
+## Contoh Implementasi Fungsi AVERAGEIFS
 
 Silahkan lihat contoh implementasi fungsi AVERAGEIFS dalam microsoft excel berikut :
 

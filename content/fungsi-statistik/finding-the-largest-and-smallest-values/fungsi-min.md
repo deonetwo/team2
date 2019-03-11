@@ -1,10 +1,10 @@
 # FUNGSI MIN
 
-### Pengertian Fungsi **MIN**
+## Pengertian Fungsi **MIN**
 
 **Fungsi MIN** adalah fungsi excel yang digunakan untuk menentukan nilai terendah \(angka minimum\) atau untuk mengetahui nilai terkecil dari sejumlah data dalam bentuk angka.
 
-### Sintaks Fungsi **MIN** pada Excel
+## Sintaks Fungsi **MIN** pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi MIN" %}

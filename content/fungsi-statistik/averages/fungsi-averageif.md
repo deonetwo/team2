@@ -1,10 +1,10 @@
 # FUNGSI AVERAGEIF
 
-### Pengertian Fungsi AVERAGEIF
+## Pengertian Fungsi AVERAGEIF
 
 **Fungsi AVERAGEIF** adalah salah satu fungsi statistik pada excel yang digunakan untuk menghitung nilai rata-rata dengan sebuah kriteria atau syarat tertentu.
 
-### Sintaks Fungsi AVERAGEIF pada Excel
+## Sintaks Fungsi AVERAGEIF pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi AVERAGEIF" %}
@@ -22,7 +22,7 @@ Sintaks atau cara penulisan fungsi excel AVERAGEIFS di atas memiliki argumen ber
 
   Argumen ini bersifat opsional \(bisa diisi atau tidak\), yakni Range data yang akan dihitung rata-ratanya. Jika dikosongkan atau tidak diisi maka yang akan digunakan adalah argumen Range.
 
-### Contoh Implementasi Fungsi AVERAGEIF
+## Contoh Implementasi Fungsi AVERAGEIF
 
 Silahkan lihat contoh implementasi fungsi AVERAGEIF dalam microsoft excel berikut :
 

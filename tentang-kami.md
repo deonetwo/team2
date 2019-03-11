@@ -5,7 +5,7 @@ Algoritma + Struktur Data = Program
 Pengetahuan > Informasi > Data
 ```
 
-Kami adalah Kelompok Proyek ke-2 yang beranggotakan sebagai berikut:
+Kami adalah Kelompok 2 Proyek ke-1 yang beranggotakan sebagai berikut:
 
 * Dewanto Joyo Pramono \(181524005\)
 * Naufal Rajabi \(181524025\)

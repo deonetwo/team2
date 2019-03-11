@@ -1,10 +1,10 @@
 # Fungsi RAND
 
-### Deskripsi
+## Deskripsi
 
 **RAND** mengembalikan bilangan riil acak yang terdistribusi secara merata yang lebih besar atau sama dengan 0 dan kurang dari 1. Bilangan riil acak akan dikembalikan setiap kali lembar kerja dihitung.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -14,7 +14,7 @@ RAND()
 
 Sintaks fungsi RAND tidak memiliki argumen.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |

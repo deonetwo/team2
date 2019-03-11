@@ -1,6 +1,6 @@
 # Fungsi FACTDOUBLE
 
-### Deskripsi
+## Deskripsi
 
 Fungsi FACTDOUBLE digunakana untuk mengembalikan faktorial ganda dari suatu angka.
 
@@ -12,7 +12,7 @@ Fungsi FACTDOUBLE digunakana untuk mengembalikan faktorial ganda dari suatu angk
 
   ![Persamaan](https://support.content.office.net/id-id/media/5a4ad766-a2f5-4005-924c-9d1bb6582404.gif)
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -24,7 +24,7 @@ Sintaks fungsi FACTDOUBLE memiliki argumen berikut:
 
 * **Number**    Diperlukan. Nilai untuk mengembalikan faktorial ganda. Jika angka bukan bilangan bulat, maka dipotong.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |

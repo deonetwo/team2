@@ -1,16 +1,14 @@
 # Fungsi INDIRECT
 
-### Deskripsi
+## Deskripsi
 
 Fungsi INDIRECT digunakan untuk mengembalikan referensi yang ditentukan oleh string teks. Referensi langsung dievaluasi untuk menampilkan isinya.
 
-### Sintaks 
+## Sintaks
 
 ```text
 INDIRECT(ref_text, [a1])
 ```
-
-
 
 Sintaks fungsi INDIRECT memiliki argumen ini:
 
@@ -19,7 +17,7 @@ Sintaks fungsi INDIRECT memiliki argumen ini:
   * Jika a1 TRUE atau dikosongkan, maka ref\_text diterjemahkan sebagai referensi gaya A1.
   * Jika a1 FALSE atau dikosongkan, maka ref\_text diterjemahkan sebagai referensi gaya R1C1.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
-![](../../.gitbook/assets/gambar%20%281%29.png)
+![](https://github.com/deonetwo/team2/tree/12f5c2a0859ce47fd98fbf7b7380f6a3c0df0755/.gitbook/assets/gambar%20%281%29.png)
 

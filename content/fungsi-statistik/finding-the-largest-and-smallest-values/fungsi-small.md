@@ -1,10 +1,10 @@
 # FUNGSI SMALL
 
-### Pengertian Fungsi **SMALL**
+## Pengertian Fungsi **SMALL**
 
 **Fungsi SMALL** Mengembalikan nilai k-th yang paling kecil dalam rangkaian data. Gunakan fungsi ini untuk mengembalikan nilai dengan posisi relatif tertentu dalam kumpulan data.
 
-### Sintaks Fungsi **SMALL** pada Excel
+## Sintaks Fungsi **SMALL** pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi SMALL" %}

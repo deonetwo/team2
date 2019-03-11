@@ -1,10 +1,10 @@
 # Fungsi SUMXMY2
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini berfungsi mengembalikan jumlah kuadrat selisih nilai yang terkait dalam dua array.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -17,7 +17,7 @@ Sintaks fungsi SUMXMY2 memiliki argumen berikut:
 * **Array\_x**    Diperlukan. Array atau rentang nilai pertama.
 * **Array\_y**    Diperlukan. Array atau rentang nilai kedua.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Data** |  |
 | :--- | :--- |
@@ -34,8 +34,4 @@ Sintaks fungsi SUMXMY2 memiliki argumen berikut:
 | :--- | :--- | :--- |
 | =SUMXMY2\(A3:A9,B3:B9\) | Jumlah selisih kuadrat dari dua array di atas \(79\) | 79 |
 | =SUMXMY2\({2, 3, 9, 1, 8, 7, 5}, {6, 5, 11, 7, 5, 4, 4}\) | Jumlah selisih kuadrat dari dua konstanta array \(79\) | 79 |
-
-
-
-
 

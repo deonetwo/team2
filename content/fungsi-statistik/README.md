@@ -1,10 +1,10 @@
 # Fungsi Statistik
 
-Excel menyediakan berbagai Fungsi Statistik, yang melakukan perhitungan mulai dari rata-rata dasar, median & mode hingga distribusi statistik yang lebih kompleks dan tes probabilitas. 
+Excel menyediakan berbagai Fungsi Statistik, yang melakukan perhitungan mulai dari rata-rata dasar, median & mode hingga distribusi statistik yang lebih kompleks dan tes probabilitas.
 
 Fungsi Statistik Excel semuanya tercantum dalam tabel di bawah ini, dikelompokkan ke dalam kategori, untuk membantu Anda dengan mudah menemukan fungsi yang Anda butuhkan. Memilih nama fungsi akan membawa Anda ke deskripsi lengkap fungsi, dengan contoh penggunaan dan saran tentang kesalahan umum.
 
-### Excel Statistical Functions
+## Excel Statistical Functions
 
 **Averages**
 
@@ -16,7 +16,7 @@ Fungsi Statistik Excel semuanya tercantum dalam tabel di bawah ini, dikelompokka
 | [AVERAGEIFS](averages/fungsi-averageifs.md) | Mengembalikan nilai rata-rata \(nilai rata-rata aritmatika\) dari semua sel yang memenuhi beberapa kriteria |
 | [MEDIAN](averages/fungsi-median.md) | Mengembalikan nilai median dari bilangan |
 
-#### Count & Frequency Functions
+### Count & Frequency Functions
 
 | Function | Description |
 | :--- | :--- |

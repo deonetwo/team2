@@ -1,10 +1,10 @@
 # Fungsi MDETERM
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini digunakan untuk mengembalikan determinan matriks sebuah array.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -16,7 +16,7 @@ Sintaks fungsi MDETERM memiliki argumen ini:
 
 * **Array**    Diperlukan. Sebuah array numerik dengan jumlah baris dan kolom yang sama.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 ![Data untuk sampel pengolahan matriks](../../../.gitbook/assets/image%20%281%29.png)
 

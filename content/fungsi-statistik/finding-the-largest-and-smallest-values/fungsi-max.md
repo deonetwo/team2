@@ -1,10 +1,10 @@
 # FUNGSI MAX
 
-### Pengertian Fungsi **MAX**
+## Pengertian Fungsi **MAX**
 
 **Fungsi MAX** adalah fungsi excel yang digunakan untuk menentukan nilai tertinggi \(angka maksimum\) dari sekumpulan nilai atau untuk mendapatkan nilai terbesar dari sejumlah data.
 
-### Sintaks Fungsi **MAX**  pada Excel
+## Sintaks Fungsi **MAX**  pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi MAX" %}

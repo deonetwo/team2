@@ -1,10 +1,10 @@
 # Fungsi SIGN
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini mengembalikan lambang angka. Mengembalikan 1 jika angkanya positif, nol \(0\) jika angkanya adalah 0, dan -1 jika angkanya negatif.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -16,7 +16,7 @@ Sintaks fungsi SIGN memiliki argumen berikut:
 
 * **Angka**    Diperlukan. Setiap bilangan riil.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |

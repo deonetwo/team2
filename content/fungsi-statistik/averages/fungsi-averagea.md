@@ -1,6 +1,6 @@
 # FUNGSI AVERAGEA
 
-### Pengertian Fungsi AVERAGEA
+## Pengertian Fungsi AVERAGEA
 
 **Fungsi dan Rumus AVERAGEA** adalah salah satu rumus statistik pada Microsoft Office Excel yang digunakan untuk mengembalikan nilai rata-rata dari argumennya, termasuk angka, teks dan nilai logika.
 
@@ -13,7 +13,7 @@ Berikut perbedaan antara fungsi AVERAGE dan fungsi AVERAGEA :
 
 ![perbedaan antara fungsi AVERAGE dan fungsi AVERAGEA](../../../.gitbook/assets/avgajpg.JPG)
 
-### Sintaks Fungsi AVERAGEA pada Excel
+## Sintaks Fungsi AVERAGEA pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="AVERAGEA Function" %}
@@ -27,13 +27,13 @@ Sintaks atau cara penulisan fungsi excel AVERAGE di atas memiliki argumen beriku
 
 * **value1, value2** Value1 \[WAJIB DIISI\], nilai selanjutnya \(value2\) adalah opsional. 1 hingga 255 sel, rentang sel, atau nilai yang Anda ingin rata-ratakan.
 
-### Contoh Implementasi Fungsi AVERAGEA
+## Contoh Implementasi Fungsi AVERAGEA
 
 Silahkan lihat contoh implementasi fungsi AVERAGEA dalam microsoft excel berikut :
 
 ![ implementasi fungsi AVERAGEA](../../../.gitbook/assets/avga1.JPG)
 
-Bisa kita lihat dari contoh di atas, bahwa fungsi averagea berbeda dengan fungsi average. Perbedaan yaitu jika pada fungsi averagea sel yang berisi text dan juga sel yang berisi Logika turut diikutsertakan dalam perhitungan. Sel yang berisi text dihitung nilainya menjadi 0 sedangkan sel yang berisi logika jika TRUE maka akan dihitung nilainya menjadi 1. 
+Bisa kita lihat dari contoh di atas, bahwa fungsi averagea berbeda dengan fungsi average. Perbedaan yaitu jika pada fungsi averagea sel yang berisi text dan juga sel yang berisi Logika turut diikutsertakan dalam perhitungan. Sel yang berisi text dihitung nilainya menjadi 0 sedangkan sel yang berisi logika jika TRUE maka akan dihitung nilainya menjadi 1.
 
 Sehingga evaluasi perhitungan fungsi averagea di atas dapat dijabarkan menjadi berikut :
 
@@ -44,6 +44,4 @@ Sehingga evaluasi perhitungan fungsi averagea di atas dapat dijabarkan menjadi b
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-
-
 

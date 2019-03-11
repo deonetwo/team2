@@ -1,12 +1,12 @@
 # Fungsi SERIESSUM
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini mengembalikan jumlah deret pangkat berdasarkan rumus:
 
 ![Persamaan yang dikembalikan SERIESSUM](https://support.content.office.net/id-id/media/dbf8edd3-a26e-4b89-8f32-32595657c89b.gif)
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -21,7 +21,7 @@ Sintaks fungsi SERIESSUM memiliki argumen berikut:
 * **M**    Diperlukan. Langkah untuk meningkatkan n untuk setiap item dalam deret.
 * **Coefficients**    Diperlukan. Sekumpulan koefisien di mana setiap pangkat dari x yang berurutan dilipatkan. Jumlah nilai dalam koefisien menentukan jumlah item di deret pangkat. Sebagai contoh, jika ada tiga nilai di koefisien, maka ada tiga item di deret pangkat.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Koefisien sebagai angka** | **Koefisien sebagai rumus** |
 | :--- | :--- |

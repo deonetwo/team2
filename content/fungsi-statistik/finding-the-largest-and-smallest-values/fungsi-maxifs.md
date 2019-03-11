@@ -1,10 +1,10 @@
 # FUNGSI MAXIFS
 
-### Pengertian Fungsi **MAXIFS**
+## Pengertian Fungsi **MAXIFS**
 
 **Fungsi MAXIFS** mengembalikan nilai maksimal di antara sel yang ditentukan oleh kumpulan persyaratan atau kriteria tertentu.
 
-### Sintaks Fungsi **MAXIFS**  pada Excel
+## Sintaks Fungsi **MAXIFS**  pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi MAXIFS" %}

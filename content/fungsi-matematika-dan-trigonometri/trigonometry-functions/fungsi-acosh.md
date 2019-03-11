@@ -1,10 +1,10 @@
 # Fungsi ACOSH
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini mengembalikan nilai inversi kosinus hiperbolik dari bilangan. Bilangan harus lebih besar dari atau sama dengan 1. Nilai inversi kosinus hiperbolik adalah nilai dengan kosinus hiperbolik berupa bilangan, sehingga ACOSH\(COSH\(bilangan\)\) sama dengan bilangan.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -16,7 +16,7 @@ Sintaks fungsi ACOSH memiliki argumen berikut:
 
 * **Number**    Diperlukan. Bilangan riil sama dengan atau lebih dari 1.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |

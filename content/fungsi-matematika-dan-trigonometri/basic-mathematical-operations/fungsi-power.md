@@ -1,10 +1,10 @@
 # Fungsi POWER
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini mengembalikan sebuah angka yang dipangkatkan.
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -17,7 +17,7 @@ Sintaks fungsi POWER memiliki argumen berikut:
 * **Number**    Diperlukan. Bilangan basis. Bisa berupa bilangan riil berapa pun.
 * **Power**    Diperlukan. Eksponen untuk menaikkan bilangan basis.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **H** **asil** |
 | :--- | :--- | :--- |

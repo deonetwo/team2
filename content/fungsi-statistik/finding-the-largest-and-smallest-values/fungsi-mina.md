@@ -1,10 +1,10 @@
 # FUNGSI MINA
 
-### Pengertian Fungsi **MINA**
+## Pengertian Fungsi **MINA**
 
 **Fungsi MINA** adalah fungsi yang berfungsi untuk mengembalikan nilai terkecil dari sekumpulan nilai numerik yang disediakan, sambil menghitung teks dan nilai logis FALSE sebagai nilai 0 dan menghitung nilai logis BENAR sebagai nilai 1.
 
-### Sintaks Fungsi **MINA** pada Excel
+## Sintaks Fungsi **MINA** pada Excel
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi MINA" %}

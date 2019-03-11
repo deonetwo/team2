@@ -1,12 +1,12 @@
 # Fungsi MULTINOMIAL
 
-### Deskripsi
+## Deskripsi
 
 Fungsi ini mengembalikan rasio faktorial jumlah nilai terhadap hasil kali faktorial. Persamaan multinomial adalah sebagai berikut:
 
 ![Persamaan Multinomial](https://support.content.office.net/id-id/media/e8362a74-eba1-4381-ba52-cd9164325add.gif)
 
-### Sintaks Dasar
+## Sintaks Dasar
 
 Pada umumnya fungsi ini memiliki sintaks dasar sebagai berikut.
 
@@ -18,7 +18,7 @@ Sintaks fungsi MULTINOMIAL memiliki argumen berikut:
 
 * **Number1, number2, ...**    Number1 diperlukan, angka selanjutnya adalah opsional. Nilai dari 1 sampai 255 yang Anda ingin cari multinomialnya.
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 | **Rumus** | **Deskripsi** | **Hasil** |
 | :--- | :--- | :--- |

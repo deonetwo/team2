@@ -1,10 +1,10 @@
 # Fungsi MATCH
 
-### Deskripsi
+## Deskripsi
 
 Fungsi MATCH mencari item yang ditentukan dalam rentang sel, kemudian mengembalikan posisi relatif item tersebut dalam rentang.
 
-### Sintaks 
+## Sintaks
 
 ```text
 MATCH(lookup_value, lookup_array, [match_type])
@@ -19,9 +19,9 @@ Sintaks fungsi MATCH memiliki argumen berikut:
   * 0  menemukan nilai pertama yang sama persis dengan lookup\_value.
   * -1  menemukan nilai terkecil yang lebih besar dari atau sama dengan lookup\_value.Nilai dalam argumen lookup\_array harus disusun dalam urutan descending
 
-### Contoh Implementasi
+## Contoh Implementasi
 
-![](../../.gitbook/assets/gambar%20%285%29.png)
+![](https://github.com/deonetwo/team2/tree/12f5c2a0859ce47fd98fbf7b7380f6a3c0df0755/.gitbook/assets/gambar%20%285%29.png)
 
 Tekan CTRL+SHIFT+ENTER ketika Anda selesai, bukan dengan menekan ENTER dengan sendirinya.
 
