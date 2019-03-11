@@ -2,6 +2,7 @@
 
 ```text
 Algoritma + Struktur Data = Program
+Pengetahuan > Informasi > Data
 ```
 
 Kami adalah Kelompok Proyek ke-2 yang beranggotakan sebagai berikut:
@@ -11,11 +12,11 @@ Kami adalah Kelompok Proyek ke-2 yang beranggotakan sebagai berikut:
 * Rayhan Azka Anandhias Putra \(181524028\)
 * Riyanzani Anggara Putra \(181524029\)
 
-Kelas 1A-D4 Teknik Informatika  
-Politeknik Negeri Bandung  
-T.A. 2018-2019
+Kelas 1A-D4 Teknik Informatika Politeknik Negeri Bandung T.A. 2018-2019.
 
-Dan ini logo TIM kami
+Berikut merupakan logo dari TIM kami.
 
-![Logo TIM Proyek-2](.gitbook/assets/image%20%283%29.png)
+![Logo TIM Proyek-2 ](.gitbook/assets/logoteam2.png)
+
+> _"Pandangan yang berbeda dari setiap individu menghasikan data yang beragam."_
 
